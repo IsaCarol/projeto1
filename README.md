@@ -49,5 +49,7 @@ Este projeto tem como objetivo analisar os dados de vendas de uma empresa fictí
 - Implementar um modelo preditivo para prever vendas futuras.
 - Expandir a análise para incluir dados de clientes.
 
+![Gráfico de Vendas](./projeto1.png)
+
 
 
