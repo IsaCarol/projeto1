@@ -10,7 +10,6 @@ Este projeto tem como objetivo analisar os dados de vendas de uma empresa fictí
 
 ## Tecnologias Utilizadas
 
-- **Python**: 
 - **Power BI**: Para criação de dashboards interativos
 - **Power Query**: Para transformação dos dados e utilização do editor avançado (M language), para adição de colunas e renomeação
 - **Excel**: Para manipulação inicial dos dados
